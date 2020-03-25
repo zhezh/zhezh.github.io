@@ -8,7 +8,7 @@ I am currently a final-year PhD student in Southeast University, Nanjing, China.
 
 ## News
 
--  [**2020-02-24**] <img src="src/exclam.png" style="zoom:70%;" /><img src="src/news.png" style="zoom:20%;" />  Our paper on ***3D human pose estimation from multiview images and IMUs*** is accepted by CVPR 2020!
+<img src="src/exclam.png" style="zoom:70%;" /> [**2020-02-24**] Our paper on ***3D human pose estimation from multiview images and IMUs*** is accepted by CVPR 2020!
 
 ## Education & Experience
 2018/11 - 2020/5  
