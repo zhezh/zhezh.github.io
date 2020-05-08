@@ -26,8 +26,13 @@ B.Eng, School of Instrument Science and Engineering
 ## Publications
 
 <img src="src/paper.png" style="zoom:20%;" /> **Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach**  
-Zhe Zhang, Chunyu Wang, Wenhu Qin, Wenjun Zeng  (CVPR 2020)  
+<u>Zhe Zhang</u>, Chunyu Wang, Wenhu Qin, Wenjun Zeng  (CVPR 2020)  
+![cvpr20_teaser](src/05755-teaser-banner.png) 
+(Work done at Microsoft Research Asia.)  
 [{<img src="src/project.png" style="zoom:20%;" /> Project}](https://www.zhe-zhang.com/cvpr2020),  [{<img src="src/pdf.png" style="zoom:20%;" /> Paper}](https://arxiv.org/abs/2003.11163),  [{<img src="src/code.png" style="zoom:20%;" /> Code}](https://aka.ms/imu-human-pose)  
+
+
+
 
 
 
