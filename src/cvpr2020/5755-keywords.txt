@@ -1,0 +1,1 @@
+human pose, fusion, imu, multiview, geometry, occlusion, inertial sensor, multi-modal, pictorial structure, 3D human pose
