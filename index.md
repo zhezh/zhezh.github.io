@@ -5,7 +5,7 @@ layout: default
 ## Biography
 
 I am currently a final-year PhD student in Southeast University, Nanjing, China and also a Research Intern of [Intelligent Multimedia (IM) Group](https://www.microsoft.com/en-us/research/group/internet-media/) at *MSRA* since Nov. 2018, working with [Chunyu Wang](https://www.chunyuwang.org/) and [Wenjun Zeng](https://www.microsoft.com/en-us/research/people/wezeng/). 
-I research on recovering accurate 3D Human Pose with multi-cameras setting and explicit geometric methods. 
+I research on recovering accurate 3D Human Pose with multi-cameras setting and integrating explicit geometric algorithms into deep neural networks. 
 
 
 ## News
