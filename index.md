@@ -4,14 +4,16 @@ layout: default
 
 ## Biography
 
-I am currently a final-year PhD student in Southeast University, Nanjing, China.
+I am currently a final-year PhD student in Southeast University, Nanjing, China and also a Research Intern of [Intelligent Multimedia (IM) Group](https://www.microsoft.com/en-us/research/group/internet-media/) at *MSRA* since Nov. 2018, working with [Chunyu Wang](https://www.chunyuwang.org/) and [Wenjun Zeng](https://www.microsoft.com/en-us/research/people/wezeng/). 
+I research on recovering accurate 3D Human Pose with multi-cameras setting and explicit geometric methods. 
+
 
 ## News
 
 <img src="https://cdn.jsdelivr.net/gh/zhezh/zhezh.github.io@master/src/exclam.png" style="zoom:70%;" /> [**2020-02-24**] Our paper on ***3D human pose estimation from multiview images and IMUs*** is accepted by CVPR 2020!
 
 ## Education & Experience
-2018/11 - 2020/5  
+2018/11 - Present  
 Research Intern in *Intelligent Multimedia* (IM) Group  
 <img src="https://cdn.jsdelivr.net/gh/zhezh/zhezh.github.io@master/src/microsoft_logo.jpg" style="zoom:30%;" /> **Microsoft Research Asia (MSRA)** , Beijing, China  
 
